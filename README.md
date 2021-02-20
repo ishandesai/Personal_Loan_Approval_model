@@ -49,37 +49,25 @@ You:Ohh
 
 Me:![](heatmap.png)
 this is heatmap of all informations we have
-
 You: what does heatmap mean?
- Me: it sort of relation between two inputs
+Me: it sort of relation between two inputs
  
- You: what this numbers are about?
+You: what this numbers are about?
  
- Me: if two inputs are closely related then that number would be greater zero and less than one 
- number depends on how closely related they are and if they are not then number would be negative
- 
- You: i don't undestand
- 
- Me:hmm like you said earlier usually people with more income take loan right see there is postive relation between them so you were right.one more example see age and experience they also have postive relation like aged customer have more experience and there is no relation between age and income so negative do u understand??
- 
- You: Yea i understood you are great teacher
- 
- Me: Thanks haha
- 
-
-
+Me: if two inputs are closely related then that number would be greater zero and less than one 
+number depends on how closely related they are and if they are not then number would be negative
+You: i don't undestand
+Me:hmm like you said earlier usually people with more income take loan right see there is postive relation between them so you were right.one more example see age and experience they also have postive relation like aged customer have more experience and there is no relation between age and income so negative do u understand?? 
+You: Yea i understood you are great teacher
+Me: Thanks haha
 Me:![ ](CC_Avg.png)
 This graph of our customers credit card avg spending like grouped by their debt
 You:woah,people seems like use credit card alot 
-
-Me: now we would train our model and see it accuracy
-you: i am so excited!!!
-
+Me: now we would train our model and see it accuracyyou: i am so excited!!!
 Me:
 ![ ](image2.png)
 you see we have trained our model and it has accuracy of 97%
 You: woah thats so cool so it means if we test it 100 times it would answer correct 97 times
-
 Me:Do you like it? 
 You:Yes,Yes i love it
 Me: would you learn more about machine leaning 
